@@ -1,0 +1,16 @@
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.Form1.resources
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.csproj.GenerateResource.cache
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.AssemblyInfoInputs.cache
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.AssemblyInfo.cs
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.csproj.CoreCompileInputs.cache
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\bin\Debug\net10.0-windows\pingiel.exe
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\bin\Debug\net10.0-windows\pingiel.deps.json
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\bin\Debug\net10.0-windows\pingiel.runtimeconfig.json
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\bin\Debug\net10.0-windows\pingiel.dll
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\bin\Debug\net10.0-windows\pingiel.pdb
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.dll
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\refint\pingiel.dll
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.pdb
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\pingiel.genruntimeconfig.cache
+C:\Users\1ap\Desktop\Pong-ping-gra-main\pingiel\pingiel\obj\Debug\net10.0-windows\ref\pingiel.dll

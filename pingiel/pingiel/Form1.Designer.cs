@@ -29,11 +29,29 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+            timer1 = new System.Windows.Forms.Timer(components);
+            SuspendLayout();
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
+            // 
+            // Form1
+            // 
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaptionText;
             ClientSize = new Size(800, 450);
+            Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
+            KeyDown += Form1_KeyDown;
+            KeyUp += Form1_KeyUp;
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private System.Windows.Forms.Timer timer1;
     }
 }
